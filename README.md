@@ -98,6 +98,8 @@ Below you will find links to various resources that may aid in your MQP. We will
 **Code Resources**
 - PyTorch implementations of many types of GANs: https://cvnote.ddlee.cc/2019/09/25/gans-pytorch
 
+------------------------------------------
+
 ### Tasks
 Below we will lists tasks. Every student that should perform the task will have their name as a subbullet under the task. Students should ~~strikethrough~~ their names after they have completed the task. Students are expected to add to this list of tasks themselves. 
 
