@@ -85,12 +85,17 @@ Below you will find links to various resources that may aid in your MQP. We will
     - Common Python distribution 
 - Jupyter: https://jupyter.org/
     - For Deep Learning in Python
+- Scikit-Learn: https://scikit-learn.org/stable/
+    - Common Machine Learning package for Python
 - Google scholar: https://scholar.google.com/
     - Great for literature reviews
     - Google Scholar button for quickly citing papers: https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en
 
 **Code Resources**
 - PyTorch implementations of many types of GANs: https://cvnote.ddlee.cc/2019/09/25/gans-pytorch
+
+**Tasks**
+Below we will lists tasks. Every student that should perform the task will have their name as a subbullet under the task. Students should ~~strikethrough~~ their names after they have completed the task. Students are expected to add to this list of tasks themselves. 
 
 
 ### Markdown
