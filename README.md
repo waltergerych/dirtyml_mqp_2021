@@ -1,4 +1,4 @@
-## Resources for ``Dirty Machine Learning" MQP
+## ``Dirty Machine Learning" MQP
 
 **Advisor**: Elke Rundensteiner, **Mentor**: Walter Gerych
 
@@ -22,7 +22,8 @@ This is your MQP and provides an opportunity to show off your skills. Whether yo
     - write one part, edit one part
     - cite all sources 
     - write succinctly (less can be more!)
-    -include appendix with your term contributions
+    - include appendix with your term contributions
+    - Potential to extend MQP report to full conference paper
 -	Weekly update slides and presentation (for both advisor meeting and mentor meeting)
     - Include setup (don’t assume we remember!), what you did, and what you plan to do
     - Always include your conclusions and/or proposed next steps as appropriate
@@ -43,6 +44,53 @@ You will receive an individual grade. There are tangible and intangible contribu
 Further, we want you to demonstrate:
 -	leadership and teamwork
 -	academic integrity
+
+### Resources 
+
+Below you will find links to various resources that may aid in your MQP. We will periodically update this as the MQP progresses. 
+
+**Relevant papers**
+- Original GAN paper: https://arxiv.org/pdf/1406.2661.pdf
+    - See videos on GANs in videos section prior to reading
+- Conditional GAN: Mirza, Mehdi, and Simon Osindero. "Conditional generative adversarial nets.": https://arxiv.org/pdf/1411.1784.pdf
+    - Generating data with specific properties 
+- Controllable GANs:  Lee, Minhyeok, and Junhee Seok. "Controllable generative adversarial network.": https://arxiv.org/pdf/1708.00598.pdf
+    - An improvement over conditional GANs
+- Shoshan, Alon, et al. "GAN-Control: Explicitly Controllable GANs.": https://arxiv.org/pdf/2101.02477.pdf
+    - Another controllable GAN paper
+
+**Relavent blog posts**
+
+**Relevant videos** 
+- Basics of machine learning: https://www.youtube.com/watch?v=ukzFI9rgwfU
+- Basics of GANs: https://www.youtube.com/watch?v=-Upj_VhjTBs
+- Overview of original GAN paper
+    - https://www.youtube.com/watch?v=8L11aMN5KY8
+    - https://www.youtube.com/watch?v=Gib_kiXgnvA
+
+**Tutorials**
+- Jupyter Tutorials
+    - https://www.youtube.com/watch?v=HW29067qVWk
+- Machine learningin Python
+    - https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+    - https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html
+- Learning PyTorch
+    - https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+- Building simple GAN in PyTorch
+     - https://towardsdatascience.com/build-a-super-simple-gan-in-pytorch-54ba349920e4
+- Building a conditional GAN in PyTorch: https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/
+
+**Tools** 
+- Anaconda: https://www.anaconda.com/
+    - Common Python distribution 
+- Jupyter: https://jupyter.org/
+    - For Deep Learning in Python
+- Google scholar: https://scholar.google.com/
+    - Great for literature reviews
+    - Google Scholar button for quickly citing papers: https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en
+
+**Code Resources**
+- PyTorch implementations of many types of GANs: https://cvnote.ddlee.cc/2019/09/25/gans-pytorch
 
 
 ### Markdown
