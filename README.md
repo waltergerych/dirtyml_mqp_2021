@@ -6,7 +6,7 @@ Incomplete, messy data is ubiquitous in real-world applications. The focus of th
 
 This is your MQP and provides an opportunity to show off your skills. Whether your goal is industry or academia, the MQP is useful for applications. The Advisor and Mentor serve as guides during the MQP. While we will provide support and a general direction, we want all of you to bring your own ideas and seek out new directions. 
 
-**Acknowledgments: This page borrows heavily from resurce created by ML Tlachac. 
+**Acknowledgments: This page borrows heavily from resource created by ML Tlachac. 
 
 ------------------------------------------
 
@@ -63,7 +63,7 @@ Below you will find links to various resources that may aid in your MQP. We will
 - Shoshan, Alon, et al. "GAN-Control: Explicitly Controllable GANs.": https://arxiv.org/pdf/2101.02477.pdf
     - Another controllable GAN paper
 
-**Relavent blog posts**
+**Relevant blog posts**
 
 **Relevant videos** 
 - Basics of machine learning: https://www.youtube.com/watch?v=ukzFI9rgwfU
@@ -75,7 +75,7 @@ Below you will find links to various resources that may aid in your MQP. We will
 **Tutorials**
 - Jupyter Tutorials
     - https://www.youtube.com/watch?v=HW29067qVWk
-- Machine learningin Python
+- Machine learning in Python
     - https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
     - https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html
 - Learning PyTorch
@@ -101,7 +101,7 @@ Below you will find links to various resources that may aid in your MQP. We will
 ------------------------------------------
 
 ### Tasks
-Below we will lists tasks. Every student that should perform the task will have their name as a subbullet under the task. Students should ~~strikethrough~~ their names after they have completed the task. Students are expected to add to this list of tasks themselves. 
+Below we will lists tasks. Every student that should perform the task will have their name as a sub bullet under the task. Students should ~~strikethrough~~ their names after they have completed the task. Students are expected to add to this list of tasks themselves. 
 
 - Watch Anaconda tutorial (in  Videos)
     - Kyle
@@ -148,7 +148,7 @@ Below we will lists tasks. Every student that should perform the task will have 
 - Create documentation + tutorial for novel GAN training method
     - Josh 
 
-- Create slideset for THursday Sep. 2nd meeting with Mentor. Summarize progress, give overview of papers read + coding tasks completed 
+- Create slideset for Thursday Sep. 2nd meeting with Mentor. Summarize progress, give overview of papers read + coding tasks completed 
     - Kyle
     - Alek
     - Ryan
