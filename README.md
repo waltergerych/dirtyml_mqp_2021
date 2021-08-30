@@ -94,38 +94,56 @@ Below you will find links to various resources that may aid in your MQP. We will
 **Code Resources**
 - PyTorch implementations of many types of GANs: https://cvnote.ddlee.cc/2019/09/25/gans-pytorch
 
-**Tasks**
+### Tasks
 Below we will lists tasks. Every student that should perform the task will have their name as a subbullet under the task. Students should ~~strikethrough~~ their names after they have completed the task. Students are expected to add to this list of tasks themselves. 
 
+- Watch Anaconda tutorial (in  Videos)
+    - Kyle
+    - Alek
+    - Ryan
 
-### Markdown
+- Install Anaconda
+    - Kyle
+    - Alek
+    - Ryan
+    
+- Install PyTorch
+    - Kyle
+    - Alek
+    - Ryan
+    
+- Do PyTorch 60 Minute Blitz Tutorial
+    - Kyle
+    - Alek
+    - Ryan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Do "Machine Learning in Python" tutorials
+    - Kyle
+    - Alek
+    - Ryan
 
-```markdown
-Syntax highlighted code block
+- Read original GAN paper
+    - Kyle
+    - Alek
+    - Ryan
+    
+- Create GitHub Repo for future code
+    - Any student (add name below)
 
-# Header 1
-## Header 2
-### Header 3
+- Create Slack page
+    - Any student (add name below)
 
-- Bulleted
-- List
+- Organize existing GAN training code
+    - Josh
+   
+- Create slideset + documentation + tutorial for novel GAN training method
+    - Josh 
 
-1. Numbered
-2. List
+- Create documentation + tutorial for novel GAN training method
+    - Josh 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/waltergerych/waltergerych.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Create slideset for THursday Sep. 2nd meeting with Mentor. Summarize progress, give overview of papers read + coding tasks completed 
+    - Kyle
+    - Alek
+    - Ryan
+    - Josh
