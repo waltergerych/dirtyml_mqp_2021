@@ -4,7 +4,9 @@
 
 Incomplete, messy data is ubiquitous in real-world applications. The focus of this MQP is on generative methods to combat this issue and “fill in” incomplete data. Specifically, we will be focusing on developing novel training strategies for generative models in order to achieve this task. 
 
-This is your MQP and provides an opportunity to show off your skills. Whether your goal is industry or academia, the MQP is useful for applications. The Advisor and Mentor serve as guides during the MQP. While we will provide support and a general direction, we want all of you to bring your own ideas and seek out new directions.  
+This is your MQP and provides an opportunity to show off your skills. Whether your goal is industry or academia, the MQP is useful for applications. The Advisor and Mentor serve as guides during the MQP. While we will provide support and a general direction, we want all of you to bring your own ideas and seek out new directions. 
+
+------------------------------------------
 
 ### Expectations
 
