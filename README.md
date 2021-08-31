@@ -112,7 +112,7 @@ Below you will find links to various resources that may aid in your MQP. We will
 Below we will lists tasks. Every student that should perform the task will have their name as a sub bullet under the task. Students should ~~strikethrough~~ their names after they have completed the task. Students are expected to add to this list of tasks themselves. 
 
 - Watch Anaconda tutorial (in  Videos)
-    - Kyle
+    - ~~Kyle~~
     - Alek
     - Ryan
 
