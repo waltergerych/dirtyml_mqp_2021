@@ -117,12 +117,12 @@ Below we will lists tasks. Every student that should perform the task will have 
     - Ryan
 
 - Install Anaconda
-    - Kyle
+    - ~~Kyle~~
     - Alek
     - Ryan
     
 - Install PyTorch
-    - Kyle
+    - ~~Kyle~~
     - Alek
     - Ryan
     
@@ -145,7 +145,7 @@ Below we will lists tasks. Every student that should perform the task will have 
     - Any student (add name below)
 
 - Create Slack page
-    - Any student (add name below)
+    - Kyle
 
 - Organize existing GAN training code
     - Josh
