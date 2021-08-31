@@ -55,7 +55,7 @@ Further, we want you to demonstrate:
 - Advisor meetings
     - A term: 9am every Tuesday in Beckett conference room
 - Mentor meetings
-    - 9am every Thursday in DS Innovation Lab (AK 013) 
+    - A term: 9am every Thursday in DS Innovation Lab (AK 013) 
 
 ### Resources 
 
