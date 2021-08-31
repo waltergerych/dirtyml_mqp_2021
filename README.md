@@ -14,7 +14,7 @@ This is your MQP and provides an opportunity to show off your skills. Whether yo
 
 -	15 to 20 hours per week of work
 -	Two formal meetings per week: one with advisor and one with mentor. Prepare slides for both meetings 
--	At least one peer meeting per week
+-	**At least** one peer meeting per week
 -	Stay in communication with team (slack)
 -	Teach team members as requested
 -	Experience with being term leader and/or note taker. Leader ensures all team members are on time with term deliverables. Note taker records ideas for each meeting to share with team
@@ -49,6 +49,13 @@ You will receive an individual grade. There are tangible and intangible contribu
 Further, we want you to demonstrate:
 -	leadership and teamwork
 -	academic integrity
+
+### Important dates
+
+- Advisor meetings
+    - A term: 9am every Tuesday in Beckett conference room
+- Mentor meetings
+    - 9am every Thursday in DS Innovation Lab (AK 013) 
 
 ### Resources 
 
