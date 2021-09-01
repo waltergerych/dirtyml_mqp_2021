@@ -142,7 +142,7 @@ Below we will lists tasks. Every student that should perform the task will have 
     - Ryan
     
 - Create GitHub Repo for future code
-    - Any student (add name below)
+    - The team has decided to use this existing GitHub Repo.
 
 - Create Slack page
     - Kyle
