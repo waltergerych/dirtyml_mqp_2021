@@ -138,7 +138,7 @@ Below we will lists tasks. Every student that should perform the task will have 
 
 - Read original GAN paper
     - Kyle
-    - Alek
+    - ~~Alek~~
     - Ryan
     
 - Create GitHub Repo for future code
