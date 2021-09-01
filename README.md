@@ -137,7 +137,7 @@ Below we will lists tasks. Every student that should perform the task will have 
     - Ryan
 
 - Read original GAN paper
-    - Kyle
+    - ~~Kyle~~
     - ~~Alek~~
     - Ryan
     
