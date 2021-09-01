@@ -127,7 +127,7 @@ Below we will lists tasks. Every student that should perform the task will have 
     - Ryan
     
 - Do PyTorch 60 Minute Blitz Tutorial
-    - Kyle
+    - 	~~Kyle~~
     - Alek
     - Ryan
 
