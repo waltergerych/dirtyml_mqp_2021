@@ -119,7 +119,7 @@ Below we will lists tasks. Every student that should perform the task will have 
 - Install Anaconda
     - ~~Kyle~~
     - Alek
-    - Ryan
+    - ~~Ryan~~
     
 - Install PyTorch
     - ~~Kyle~~
