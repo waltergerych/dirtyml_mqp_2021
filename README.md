@@ -114,7 +114,7 @@ Below we will lists tasks. Every student that should perform the task will have 
 - Watch Anaconda tutorial (in  Videos)
     - ~~Kyle~~
     - Alek
-    - Ryan
+    - ~~Ryan~~
 
 - Install Anaconda
     - ~~Kyle~~
@@ -139,7 +139,7 @@ Below we will lists tasks. Every student that should perform the task will have 
 - Read original GAN paper
     - ~~Kyle~~
     - ~~Alek~~
-    - Ryan
+    - ~~Ryan~~
     
 - Create GitHub Repo for future code
     - The team has decided to use this existing GitHub Repo.
