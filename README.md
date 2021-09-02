@@ -148,10 +148,10 @@ Below we will lists tasks. Every student that should perform the task will have 
     - Kyle
 
 - Organize existing GAN training code
-    - Josh
+    - ~~Josh~~
    
 - Create slideset + documentation + tutorial for novel GAN training method
-    - Josh 
+    - ~~Josh ~~
 
 - Create documentation + tutorial for novel GAN training method
     - Josh 
@@ -160,4 +160,4 @@ Below we will lists tasks. Every student that should perform the task will have 
     - ~~Kyle~~
     - Alek
     - Ryan
-    - Josh
+    - ~~Josh~~
