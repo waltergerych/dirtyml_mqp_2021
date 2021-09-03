@@ -151,10 +151,10 @@ Below we will lists tasks. Every student that should perform the task will have 
     - ~~Josh~~
    
 - Create slideset + documentation + tutorial for novel GAN training method
-    - ~~Josh ~~
+    - ~~Josh~~
 
 - Create documentation + tutorial for novel GAN training method
-    - Josh 
+    - ~~Josh~~ 
 
 - Create slideset for Thursday Sep. 2nd meeting with Mentor. Summarize progress, give overview of papers read + coding tasks completed 
     - ~~Kyle~~
