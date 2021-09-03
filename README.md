@@ -124,7 +124,7 @@ Below we will lists tasks. Every student that should perform the task will have 
 - Install PyTorch
     - ~~Kyle~~
     - Alek
-    - Ryan
+    - ~~Ryan~~
     
 - Do PyTorch 60 Minute Blitz Tutorial
     - 	~~Kyle~~
