@@ -159,5 +159,5 @@ Below we will lists tasks. Every student that should perform the task will have 
 - Create slideset for Thursday Sep. 2nd meeting with Mentor. Summarize progress, give overview of papers read + coding tasks completed 
     - ~~Kyle~~
     - Alek
-    - Ryan
+    - ~~Ryan~~
     - ~~Josh~~
