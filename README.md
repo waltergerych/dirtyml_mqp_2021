@@ -128,7 +128,7 @@ Below we will lists tasks. Every student that should perform the task will have 
     
 - Do PyTorch 60 Minute Blitz Tutorial
     - 	~~Kyle~~
-    - Alek
+    - ~~Alek~~
     - Ryan
 
 - Do "Machine Learning in Python" tutorials
