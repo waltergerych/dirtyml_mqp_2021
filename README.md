@@ -113,17 +113,17 @@ Below we will lists tasks. Every student that should perform the task will have 
 
 - Watch Anaconda tutorial (in  Videos)
     - ~~Kyle~~
-    - Alek
+    - ~~Alek~~
     - ~~Ryan~~
 
 - Install Anaconda
     - ~~Kyle~~
-    - Alek
+    - ~~Alek~~
     - ~~Ryan~~
     
 - Install PyTorch
     - ~~Kyle~~
-    - Alek
+    - ~~Alek~~
     - ~~Ryan~~
     
 - Do PyTorch 60 Minute Blitz Tutorial
@@ -158,6 +158,6 @@ Below we will lists tasks. Every student that should perform the task will have 
 
 - Create slideset for Thursday Sep. 2nd meeting with Mentor. Summarize progress, give overview of papers read + coding tasks completed 
     - ~~Kyle~~
-    - Alek
+    - ~~Alek~~
     - ~~Ryan~~
     - ~~Josh~~
