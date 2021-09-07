@@ -127,9 +127,9 @@ Below we will lists tasks. Every student that should perform the task will have 
     - ~~Ryan~~
     
 - Do PyTorch 60 Minute Blitz Tutorial
-    - 	~~Kyle~~
+    - ~~Kyle~~
     - ~~Alek~~
-    - Ryan
+    - ~~Ryan~~
 
 - Do "Machine Learning in Python" tutorials
     - Kyle
@@ -142,10 +142,10 @@ Below we will lists tasks. Every student that should perform the task will have 
     - ~~Ryan~~
     
 - Create GitHub Repo for future code
-    - The team has decided to use this existing GitHub Repo.
+    - ~~The team has decided to use this existing GitHub Repo.~~
 
 - Create Slack page
-    - Kyle
+    - ~~Kyle~~
 
 - Organize existing GAN training code
     - ~~Josh~~
