@@ -80,6 +80,7 @@ Method for Nondifferentiable Minimization": https://link.springer.com/content/pd
 - Bohm, Axel, et. al. "Two steps at a time — taking GAN training in stride
 with Tseng’s method": https://arxiv.org/pdf/2006.09033v1.pdf
     - Quantifying the convergence of GAN training methods under specfic conditions.
+- Jayagopal, Tarun Narain (2021) VICE-GAN: Video Identity-Consistent Emotion Generative Adversarial Network.: http://essay.utwente.nl/88376/1/Jayagopal_MA_EEMCS.pdf
 **Relevant blog posts**
 
 **Relevant videos** 
