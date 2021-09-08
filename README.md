@@ -52,7 +52,7 @@ Further, we want you to demonstrate:
 
 ### Important dates
 
-- Advihttps://arxiv.org/pdf/1801.04406.pdfsor meetings
+- Advisor meetings
     - A term: 9am every Tuesday in Beckett conference room
 - Mentor meetings
     - A term: 9am every Thursday in DS Innovation Lab (AK 013) 
