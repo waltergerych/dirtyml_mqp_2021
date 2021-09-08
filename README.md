@@ -70,9 +70,9 @@ Below you will find links to various resources that may aid in your MQP. We will
     - An improvement over conditional GANs
 - Shoshan, Alon, et al. "GAN-Control: Explicitly Controllable GANs.": https://arxiv.org/pdf/2101.02477.pdf
     - Another controllable GAN paper
-- Lim, Jae Hyun, et al. "Geometric GAN": https://arxiv.org/pdf/1705.02894.pdf
+- Geometric GAN: Lim, Jae Hyun, et al. "Geometric GAN": https://arxiv.org/pdf/1705.02894.pdf
     - A loss function based off of SVM properties
-- Mescheder, Lars, et al. "Which Training Methods for GANs do actually Converge?": https://arxiv.org/pdf/1801.04406.pdf
+- Literature Compilation and Review: Mescheder, Lars, et al. "Which Training Methods for GANs do actually Converge?": https://arxiv.org/pdf/1801.04406.pdf
     - Review of loss functions / training methods published in previous GAN research (2018 and earlier) 
  
 
