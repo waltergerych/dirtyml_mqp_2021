@@ -83,6 +83,12 @@ with Tseng’s method": https://arxiv.org/pdf/2006.09033v1.pdf
 - Jayagopal, Tarun Narain (2021) VICE-GAN: Video Identity-Consistent Emotion Generative Adversarial Network.: http://essay.utwente.nl/88376/1/Jayagopal_MA_EEMCS.pdf
 - Progressive Growing GANs: https://arxiv.org/abs/1710.10196
     - Stable training of image-generating GANs by steadily increasing the sizes of the images generated
+- Lin, Tianyi, et al. "On Gradient Descent Ascent for Nonconvex-Concave
+Minimax Problems": https://arxiv.org/pdf/1906.00331.pdf
+    - Proof based convergence Analysis
+- Dauphin, Yann, et al. "Identifying and attacking the saddle point
+problem in high-dimensional non-convex optimization": https://ganguli-gang.stanford.edu/pdf/14.SaddlePoint.NIPS.pdf
+
 **Relevant blog posts**
 
 **Relevant videos** 
