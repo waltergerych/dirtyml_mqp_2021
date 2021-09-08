@@ -81,6 +81,8 @@ Method for Nondifferentiable Minimization": https://link.springer.com/content/pd
 with Tseng’s method": https://arxiv.org/pdf/2006.09033v1.pdf
     - Quantifying the convergence of GAN training methods under specfic conditions.
 - Jayagopal, Tarun Narain (2021) VICE-GAN: Video Identity-Consistent Emotion Generative Adversarial Network.: http://essay.utwente.nl/88376/1/Jayagopal_MA_EEMCS.pdf
+- Progressive Growing GANs: https://arxiv.org/abs/1710.10196
+    - Stable training of image-generating GANs by steadily increasing the sizes of the images generated
 **Relevant blog posts**
 
 **Relevant videos** 
