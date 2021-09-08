@@ -74,8 +74,12 @@ Below you will find links to various resources that may aid in your MQP. We will
     - A loss function based off of SVM properties
 - Literature Compilation and Review: Mescheder, Lars, et al. "Which Training Methods for GANs do actually Converge?": https://arxiv.org/pdf/1801.04406.pdf
     - Review of loss functions / training methods published in previous GAN research (2018 and earlier) 
-
-
+- Tseng, P. "Convergence of a Block Coordinate Descent
+Method for Nondifferentiable Minimization": https://link.springer.com/content/pdf/10.1023/A:1017501703105.pdf
+    - Heavily cited paper of properties about gradient descent. 
+- Bohm, Axel, et. al. "Two steps at a time — taking GAN training in stride
+with Tseng’s method": https://arxiv.org/pdf/2006.09033v1.pdf
+    - Quantifying the convergence of GAN training methods under specfic conditions.
 **Relevant blog posts**
 
 **Relevant videos** 
