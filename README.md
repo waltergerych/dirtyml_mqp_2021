@@ -88,6 +88,7 @@ Minimax Problems": https://arxiv.org/pdf/1906.00331.pdf
     - Proof based convergence Analysis
 - Dauphin, Yann, et al. "Identifying and attacking the saddle point
 problem in high-dimensional non-convex optimization": https://ganguli-gang.stanford.edu/pdf/14.SaddlePoint.NIPS.pdf
+- Multi-Agent Diverse GANs: Arnab Ghosh, Viveka Kulharia, Vinay P. Namboodiri, Philip H.S. Torr, Puneet K. Dokania; Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, pp. 8513-8521 https://openaccess.thecvf.com/content_cvpr_2018/html/Ghosh_Multi-Agent_Diverse_Generative_CVPR_2018_paper.html
 
 **Relevant blog posts**
 
