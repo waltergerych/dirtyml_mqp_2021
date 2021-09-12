@@ -72,6 +72,8 @@ Below you will find links to various resources that may aid in your MQP. We will
     - Another controllable GAN paper
 - Geometric GAN: Lim, Jae Hyun, et al. "Geometric GAN": https://arxiv.org/pdf/1705.02894.pdf
     - A loss function based off of SVM properties
+- Invertible Conditional GANs for image editing: Guim Perarnau, Joost van de Weijer, Bogdan Raducanu, and Jose M. Álvarez. https://arxiv.org/pdf/1611.06355.pdf
+    - Allows the reconstruction and modifications of real face images conditioning on arbitrary attributes
 - Literature Compilation and Review: Mescheder, Lars, et al. "Which Training Methods for GANs do actually Converge?": https://arxiv.org/pdf/1801.04406.pdf
     - Review of loss functions / training methods published in previous GAN research (2018 and earlier) 
 - Tseng, P. "Convergence of a Block Coordinate Descent
