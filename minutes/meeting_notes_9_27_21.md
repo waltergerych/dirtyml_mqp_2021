@@ -8,6 +8,7 @@ Attendees:
 -  Kyle Costello  
 - Joshua DeOliveira  
 - Alek Lewis  
+- Kevin Hickey 
   
 
 ## Last Week’s Summary  
